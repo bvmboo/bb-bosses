@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(72, 76, 90);
+    color: rgb(174, 174, 140);
+}
+
+div{
+    text-align: center;
+}
+
+li{
+    font-style: italic;
+    font-size: small;
+    list-style-position: inside;
+}
+
+ol,
+ul{
+    display: inline-block;
+    text-align: left;
+}
